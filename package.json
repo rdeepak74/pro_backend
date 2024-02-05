@@ -1,0 +1,11 @@
+{
+  "name": "backend_pro",
+  "version": "1.0.0",
+  "description": "Backend pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deepak_rai",
+  "license": "ISC"
+}
