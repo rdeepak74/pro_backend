@@ -1,5 +1,5 @@
-// require('dotenv').config({path: './.env'})
-import dotenv from "dotenv";
+// require('dotenv').config({path: './.env'}) this can be also use
+import dotenv from "dotenv";  // This is used for maintaining code format (Module format) also make a changes in package.json file for experimental command write.
 import connectDB from "./db/index.js";
 
 
